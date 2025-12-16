@@ -12,3 +12,5 @@ This takes time and leads to delays.
 
 Goal:
 Automatically classify each incoming ticket into the appropriate category using classical NLP (TF-IDF + Logistic Regression).
+
+THis is for testing
